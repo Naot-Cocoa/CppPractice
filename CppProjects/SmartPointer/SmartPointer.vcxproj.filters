@@ -6,13 +6,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\DinamicMemAlloc\TableUtility.cpp">
+    <ClCompile Include="TableUtility.cpp">
       <Filter>Source</Filter>
     </ClCompile>
-    <ClCompile Include="..\DinamicMemAlloc\main.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\DinamicMemAlloc\TableUtility.h">
+    <ClInclude Include="TableUtility.h">
       <Filter>Source</Filter>
     </ClInclude>
   </ItemGroup>

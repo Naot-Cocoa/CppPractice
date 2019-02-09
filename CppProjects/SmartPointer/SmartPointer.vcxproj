@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\DinamicMemAlloc\main.cpp" />
-    <ClCompile Include="..\DinamicMemAlloc\TableUtility.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="TableUtility.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\DinamicMemAlloc\TableUtility.h" />
+    <ClInclude Include="TableUtility.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
