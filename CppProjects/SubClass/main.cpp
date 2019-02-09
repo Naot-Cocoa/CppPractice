@@ -18,6 +18,12 @@ int main()
 	sub.SetValue(200.0f);	// float 型の値をセット
 	sub.Dump();				// dump する
 
+	/*
+		この処理だとSuperClass::value_に100をセットしたいが、値がセットされない
+		原因は名前の隠蔽と、暗黙の型変換
+		オーバーロードは同一スコープ起きるためである
+	*/
+
 	std::printf("\n");
 
 	system("pause");
