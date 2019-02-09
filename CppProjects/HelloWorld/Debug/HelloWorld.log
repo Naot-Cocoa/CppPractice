@@ -1,3 +1,2 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: main.cpp という名前の複数のファイルでは、同じ場所に出力が生成されます。これにより、不適切なビルド結果が生じる可能性があります。関連するファイルは ..\StandardIO\main.cpp, main.cpp です。
-  main.cpp
+﻿  main.cpp
   HelloWorld.vcxproj -> C:\Users\Cocoa\Documents\GitHub\CppPractice\CppProjects\Debug\HelloWorld.exe
