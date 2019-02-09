@@ -33,9 +33,9 @@ void SuperClass::DebugPrintfInCtor()
 // デバッグ用 パラメータの出力
 void SuperClass::Dump()
 {
-	std::printf("=========== SuperClass Dump ===========");
+	std::printf("=========== SuperClass Dump ===========\n");
 	std::printf("\tname_: %s\n", name_.c_str());
-	std::printf("\tvalue_: $d\n", value_);
-	std::printf("=======================================");
+	std::printf("\tvalue_: %d\n", value_);
+	std::printf("=======================================\n");
 }
 

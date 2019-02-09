@@ -2,7 +2,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="TableUtility.cpp">
+    <ClCompile Include="Source\TableUtility.cpp">
       <Filter>Source</Filter>
     </ClCompile>
   </ItemGroup>
@@ -12,7 +12,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TableUtility.h">
+    <ClInclude Include="Source\TableUtility.h">
       <Filter>Source</Filter>
     </ClInclude>
   </ItemGroup>

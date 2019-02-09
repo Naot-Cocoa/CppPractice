@@ -1,0 +1,6 @@
+﻿  main.cpp
+  SuperClass.cpp
+c:\users\cocoa\documents\github\cpppractice\cppprojects\class\source\superclass.cpp(38): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  c:\users\cocoa\documents\github\cpppractice\cppprojects\class\source\superclass.cpp(38): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  コードを生成中...
+  Class.vcxproj -> C:\Users\Cocoa\Documents\GitHub\CppPractice\CppProjects\Debug\Class.exe

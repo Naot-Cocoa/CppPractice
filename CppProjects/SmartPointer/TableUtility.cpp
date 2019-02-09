@@ -24,7 +24,7 @@ namespace TableUtility
 	{
 		// table が所有している領域のアドレスを表示
 		std::printf("========= Dump Table =========\n");
-		std::printf("table: %p\n", table);
+		std::printf("table: %p\n", table.get());
 		std::printf("------------------------------\n");
 
 		// 有効なポインタだった場合、データを出力

@@ -116,10 +116,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="TableUtility.cpp" />
+    <ClCompile Include="Source\TableUtility.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TableUtility.h" />
+    <ClInclude Include="Source\TableUtility.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

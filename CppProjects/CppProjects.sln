@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartPointer", "SmartPointe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class", "Class\Class.vcxproj", "{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SubClass", "SubClass\SubClass.vcxproj", "{034EC1AB-8E20-41D9-BC50-03518234E2BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Release|x64.Build.0 = Release|x64
 		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Release|x86.ActiveCfg = Release|Win32
 		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Release|x86.Build.0 = Release|Win32
+		{034EC1AB-8E20-41D9-BC50-03518234E2BA}.Debug|x64.ActiveCfg = Debug|x64
+		{034EC1AB-8E20-41D9-BC50-03518234E2BA}.Debug|x64.Build.0 = Debug|x64
+		{034EC1AB-8E20-41D9-BC50-03518234E2BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{034EC1AB-8E20-41D9-BC50-03518234E2BA}.Debug|x86.Build.0 = Debug|Win32
+		{034EC1AB-8E20-41D9-BC50-03518234E2BA}.Release|x64.ActiveCfg = Release|x64
+		{034EC1AB-8E20-41D9-BC50-03518234E2BA}.Release|x64.Build.0 = Release|x64
+		{034EC1AB-8E20-41D9-BC50-03518234E2BA}.Release|x86.ActiveCfg = Release|Win32
+		{034EC1AB-8E20-41D9-BC50-03518234E2BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
