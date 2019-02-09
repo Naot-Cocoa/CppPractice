@@ -28,7 +28,7 @@ namespace TableUtility
 		std::printf("------------------------------\n");
 
 		// 有効なポインタだった場合、データを出力
-		if (table)
+		if (table == nullptr)
 		{
 			for (int index = 0; index < kTableSize; index++)
 			{

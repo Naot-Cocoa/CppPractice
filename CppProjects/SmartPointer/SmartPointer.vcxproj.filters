@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{d7da8e5b-ca2d-4113-861f-e02601a838ad}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\DinamicMemAlloc\TableUtility.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DinamicMemAlloc\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\DinamicMemAlloc\TableUtility.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
