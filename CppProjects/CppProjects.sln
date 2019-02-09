@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DinamicMemAlloc", "DinamicM
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartPointer", "SmartPointer\SmartPointer.vcxproj", "{8D9ECCDA-3E48-4453-AA7D-8D8976A1814E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class", "Class\Class.vcxproj", "{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{8D9ECCDA-3E48-4453-AA7D-8D8976A1814E}.Release|x64.Build.0 = Release|x64
 		{8D9ECCDA-3E48-4453-AA7D-8D8976A1814E}.Release|x86.ActiveCfg = Release|Win32
 		{8D9ECCDA-3E48-4453-AA7D-8D8976A1814E}.Release|x86.Build.0 = Release|Win32
+		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Debug|x64.ActiveCfg = Debug|x64
+		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Debug|x64.Build.0 = Debug|x64
+		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Debug|x86.Build.0 = Debug|Win32
+		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Release|x64.ActiveCfg = Release|x64
+		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Release|x64.Build.0 = Release|x64
+		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Release|x86.ActiveCfg = Release|Win32
+		{E1F93EF6-CCE8-44E1-95F2-E8086D54891F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -49,6 +49,8 @@ int main()
 	Function(source);
 	std::printf(" source:\t%d\n", source);
 	std::printf("==================================\n");
+
+	system("pause");
 }
 
 // QÆ‚Åó‚¯æ‚éŠÖ”‚Ì’è‹`

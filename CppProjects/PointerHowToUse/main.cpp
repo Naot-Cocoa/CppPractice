@@ -46,6 +46,8 @@ int main()
 		std::printf("===========================\n");
 		std::printf("\n");
 	}
+
+	system("pause");
 }
 
 // ポインタの参照先を出力する関数 定義

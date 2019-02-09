@@ -28,4 +28,6 @@ int main()
 		アクセス出来ないように nullptr でクリアすると安全
 	*/
 	table = nullptr;
+
+	system("pause");
 }

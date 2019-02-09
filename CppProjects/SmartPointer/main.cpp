@@ -19,4 +19,6 @@ int main()
 	TableUtility::SetupTable(table);
 	TableUtility::DumpTable(table);
 	std::printf("\n");
+
+	system("pause");
 }
