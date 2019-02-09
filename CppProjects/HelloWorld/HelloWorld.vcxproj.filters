@@ -10,5 +10,6 @@
     <ClCompile Include="main.cpp">
       <Filter>リソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="..\StandardIO\main.cpp" />
   </ItemGroup>
 </Project>
